@@ -5,7 +5,7 @@ import {
   RouterProvider,
   ScrollRestoration,
 } from 'react-router-dom';
-import Homepage from './pages/HomePage';
+import Homepage from './pages/Homepage';
 import NavBar from './Components/Navigation/Navbar';
 import Resume from './pages/Resume';
 import Contact from './pages/Contact';
