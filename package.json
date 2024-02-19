@@ -2,13 +2,12 @@
   "name": "dhruvil-patel-dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dhruvilpatel27.github.io",
+  "homepage": "https://dhruvilpatel27.github.io/dhruvil-patel-dev",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
@@ -45,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.3.3",
     "webpack": "^5.88.2",
     "webpack-cli": "^5.1.4"
