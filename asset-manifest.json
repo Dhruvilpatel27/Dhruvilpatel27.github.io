@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dhruvil-patel-dev/static/css/main.11efbe20.css",
-    "main.js": "/dhruvil-patel-dev/static/js/main.033f5b04.js",
-    "static/js/787.84d89123.chunk.js": "/dhruvil-patel-dev/static/js/787.84d89123.chunk.js",
-    "static/media/portfolioHeroBanner.jpeg": "/dhruvil-patel-dev/static/media/portfolioHeroBanner.d3a04a04a37c8ac22f91.jpeg",
-    "static/media/portfolioAbout.jpeg": "/dhruvil-patel-dev/static/media/portfolioAbout.3ba06f0c7075e12fafae.jpeg",
-    "static/media/Dhruvil_Patel_Resume.pdf": "/dhruvil-patel-dev/static/media/Dhruvil_Patel_Resume.7d514238cf068cdca1e8.pdf",
-    "static/media/jenkins.png": "/dhruvil-patel-dev/static/media/jenkins.3ee53644d62f026debb3.png",
-    "index.html": "/dhruvil-patel-dev/index.html",
-    "main.11efbe20.css.map": "/dhruvil-patel-dev/static/css/main.11efbe20.css.map",
-    "main.033f5b04.js.map": "/dhruvil-patel-dev/static/js/main.033f5b04.js.map",
-    "787.84d89123.chunk.js.map": "/dhruvil-patel-dev/static/js/787.84d89123.chunk.js.map"
+    "main.css": "/static/css/main.3e7cd7c6.css",
+    "main.js": "/static/js/main.16d5b49f.js",
+    "static/js/787.84d89123.chunk.js": "/static/js/787.84d89123.chunk.js",
+    "static/media/portfolioHeroBanner.jpeg": "/static/media/portfolioHeroBanner.d3a04a04a37c8ac22f91.jpeg",
+    "static/media/portfolioAbout.jpeg": "/static/media/portfolioAbout.3ba06f0c7075e12fafae.jpeg",
+    "static/media/Dhruvil_Patel_Resume.pdf": "/static/media/Dhruvil_Patel_Resume.ea40fbe711034b85ed10.pdf",
+    "static/media/jenkins.png": "/static/media/jenkins.3ee53644d62f026debb3.png",
+    "index.html": "/index.html",
+    "main.3e7cd7c6.css.map": "/static/css/main.3e7cd7c6.css.map",
+    "main.16d5b49f.js.map": "/static/js/main.16d5b49f.js.map",
+    "787.84d89123.chunk.js.map": "/static/js/787.84d89123.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11efbe20.css",
-    "static/js/main.033f5b04.js"
+    "static/css/main.3e7cd7c6.css",
+    "static/js/main.16d5b49f.js"
   ]
 }
