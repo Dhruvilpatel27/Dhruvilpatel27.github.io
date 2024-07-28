@@ -2,7 +2,7 @@
   "name": "dhruvilpatel27",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dhruvilpatel27.github.io/dhruvilpatel27",
+  "homepage": "https://dhruvilpatel27.github.io",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.17.0",
