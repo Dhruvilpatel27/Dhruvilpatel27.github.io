@@ -24,7 +24,7 @@ const ProjectUI = ({
           }}
         >
           <div className="overlay"></div>
-          <h1 className="text-white	text-4xl z-10 font-bold m-auto">{title}</h1>
+          <h1 className="text-white text-4xl z-10 font-bold m-auto">{title}</h1>
           <button
             onClick={flipCardHandler}
             className="details-button z-10 self-end"
@@ -43,6 +43,16 @@ const ProjectUI = ({
                 <li key={index}>{point}</li>
               ))}
             </ul>
+            {websiteLink && (
+              <a href={websiteLink} target="_blank" rel="noopener noreferrer" className="project-link">
+                Visit Website
+              </a>
+            )}
+            {githubLink && (
+              <a href={githubLink} target="_blank" rel="noopener noreferrer" className="project-link">
+                View on GitHub
+              </a>
+            )}
           </p>
         </div>
       </div>

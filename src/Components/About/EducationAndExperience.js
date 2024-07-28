@@ -27,7 +27,7 @@ const EducationAndExperience = () => {
     elements.forEach((element) => {
       observer.observe(element);
     });
-  });
+  }, []);
 
   return (
     <>
@@ -61,14 +61,22 @@ const EducationAndExperience = () => {
           </h1>
           <div className="timeline-wrapper flex flex-col">
             <Timeline
+              institute="Amazon.com Services LLC"
+              position="Software Development Engineer"
+              duration="June 2024 - Present"
+              duties="Worked as part of Direct Tax Technology Team implementing various enterprise level applications and maintaining various Tax entities across the globe."
+            />
+            <Timeline
               institute="eWorld Enterprise Solutions"
               position="Software Engineer"
-              duration="June 2023 - Present"
+              duration="June 2023 - Apr 2024"
+              duties="Designed and programmed workflows for the Benefits Eligibility Solutions application, cutting processing time for SNAP, TANF, and federal benefits by nine-tenths, significantly improving lives in Hawaii."
             />
             <Timeline
               institute="Amazon.com Services LLC"
               position="Software Development Engineer"
               duration="June 2022 - May 2023"
+              duties="Optimized tools and services for inventory management, supporting over 600+ Amazon stores."
             />
             <Timeline
               institute="Indian Oil"

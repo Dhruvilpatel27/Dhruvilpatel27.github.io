@@ -17,3 +17,31 @@
     margin: auto;
   }
 }
+
+.projects-page-wrapper {
+  padding: 2.5rem; /* Adjust padding if needed */
+}
+
+.projects-introduction {
+  text-align: center;
+}
+
+.project-card {
+  margin-bottom: 2rem; /* Add space below each project card */
+}
+
+.project-card:last-child {
+  margin-bottom: 0; /* Remove margin from the last card if needed */
+}
+
+/* ProjectUI.css */
+.project-link {
+  display: block;
+  color: #007bff;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+.project-link:hover {
+  text-decoration: underline;
+}
