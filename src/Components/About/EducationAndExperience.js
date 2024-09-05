@@ -79,6 +79,12 @@ const EducationAndExperience = () => {
               duties="Optimized tools and services for inventory management, supporting over 600+ Amazon stores."
             />
             <Timeline
+              institute="Rebel Softech"
+              position="Software Developer"
+              duration="Nov 2019 - Dec 2020"
+              duties="Contributed to multiple systems for generating diverse reporting and correspondance features"
+            />
+            <Timeline
               institute="Indian Oil"
               position="Web Developer Intern"
               duration="May 2018 - Aug 2018"
