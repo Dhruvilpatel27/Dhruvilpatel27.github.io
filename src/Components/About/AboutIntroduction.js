@@ -15,8 +15,7 @@ const AboutIntroduction = () => {
         </p>
         &nbsp;
         <p>
-      I love to play Call of Duty and Counter Strike, Always Aim for the HeadShot!
-        </p>
+        I enjoy engaging in spontaneous conversations and sharing my thoughts and insights. When I'm not working, you can find me playing Call of Duty and Counter-Strike, always aiming for that perfect headshot!        </p>
       </div>
       <ContactInformation />
     </div>

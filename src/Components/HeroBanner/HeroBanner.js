@@ -13,7 +13,12 @@ const HeroBanner = () => {
             Software Engineer
           </span>
           <span className="text-xl hero-intro">
-            Welcome to my portfolio website. Feel free to explore my work or learn more about my background..
+          Driven by a passion for software engineering, I specialize in developing resilient microservices and <strong>scalable systems</strong>, with a strong focus on cloud infrastructure and performance optimization. My experience at <strong>Amazon</strong> and <strong>eWorld</strong> includes enhancing <strong>user</strong> experiences and streamlining processes, resulting in significant efficiency gains for <strong>users</strong> and <strong>businesses</strong> alike.
+          </span>
+          <br></br>
+
+          <span className="text-xl hero-intro">
+            Welcome to my portfolio website. Feel free to explore my work or learn more about my background.
           </span>
         </div>
         <div className="hero-button-wrapper">
