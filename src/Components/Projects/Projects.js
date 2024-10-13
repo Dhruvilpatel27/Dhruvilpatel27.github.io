@@ -5,6 +5,7 @@ import Skills from './Skills';
 const Projects = () => {
   return (
     <div className="projects-page-wrapper flex justify-center items-center flex-col p-10">
+            <Skills />
       <div className="flex flex-col items-center mb-11">
         <h1 className="text-5xl font-bold mb-11">My Projects</h1>
         <div className="projects-introduction mb-7 text-center text-lg">
@@ -43,7 +44,6 @@ const Projects = () => {
           />
         </div>
       </div>
-      <Skills />
     </div>
   );
 };
